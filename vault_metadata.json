@@ -1,0 +1,73 @@
+{
+    "C:/Users/priyanshu/Desktop/file/samplefile.txt.encrypted": {
+        "original_name": "C:/Users/priyanshu/Desktop/file/samplefile.txt",
+        "encrypted_date": "2025-05-20T03:08:00.946475",
+        "last_opened": "2025-05-20T03:08:38.378987",
+        "locked": true
+    },
+    "C:/Users/priyanshu/Desktop/file/samplefile.txt": {
+        "original_name": "C:/Users/priyanshu/Desktop/file/samplefile.txt",
+        "encrypted_date": "2025-05-20T03:15:00.066211",
+        "last_opened": "2025-05-20T03:16:11.022663",
+        "locked": true
+    },
+    "C:/Users/priyanshu/Desktop/file/samplefile.txt.enc": {
+        "original_name": "C:/Users/priyanshu/Desktop/file/samplefile.txt",
+        "encrypted_date": "2025-05-20T03:17:29.499122",
+        "last_opened": "2025-05-20T03:18:08.976756",
+        "locked": true
+    },
+    "C:/Users/priyanshu/Desktop/file/priyanshu.jpg.enc": {
+        "original_name": "C:/Users/priyanshu/Desktop/file/priyanshu.jpg",
+        "encrypted_date": "2025-05-20T03:22:54.072882",
+        "last_opened": "2025-05-20T03:23:28.596619",
+        "locked": true,
+        "file_type": "image"
+    },
+    "C:/Users/priyanshu/Desktop/file/samples/Screen Recording 2025-03-11 003719.mp4.enc": {
+        "original_name": "C:/Users/priyanshu/Desktop/file/samples/Screen Recording 2025-03-11 003719.mp4",
+        "encrypted_date": "2025-05-20T04:58:13.798886",
+        "last_opened": "2025-05-20T04:58:39.199100",
+        "locked": true,
+        "file_type": "video"
+    },
+    "C:/Users/priyanshu/Desktop/file/samples/priyanshu.jpg.enc": {
+        "original_name": "C:/Users/priyanshu/Desktop/file/samples/priyanshu.jpg",
+        "encrypted_date": "2025-05-20T05:40:49.342401",
+        "last_opened": "2025-05-20T05:46:37.184932",
+        "locked": true,
+        "file_type": "image"
+    },
+    "security_vault": {
+        "password": "87654321",
+        "last_encrypted": "2025-05-20T05:15:55.331501"
+    },
+    "C:/Users/priyanshu/Desktop/file/samples/samplefile.txt.enc": {
+        "original_name": "C:/Users/priyanshu/Desktop/file/samples/samplefile.txt",
+        "encrypted_date": "2025-05-20T05:15:33.963459",
+        "last_opened": null,
+        "locked": true,
+        "file_type": "text"
+    },
+    "C:/Users/priyanshu/Desktop/file/samples\\priyanshu.jpg.enc": {
+        "original_name": "C:/Users/priyanshu/Desktop/file/samples\\priyanshu.jpg",
+        "encrypted_date": "2025-05-20T06:40:52.978129",
+        "last_opened": "2025-05-20T06:41:29.384104",
+        "locked": true,
+        "file_type": "image"
+    },
+    "C:/Users/priyanshu/Desktop/file/samples\\Screen Recording 2025-03-11 003719.mp4.enc": {
+        "original_name": "C:/Users/priyanshu/Desktop/file/samples\\Screen Recording 2025-03-11 003719.mp4",
+        "encrypted_date": "2025-05-20T06:40:53.027663",
+        "last_opened": "2025-05-20T06:41:29.438421",
+        "locked": true,
+        "file_type": "video"
+    },
+    "C:/Users/priyanshu/Desktop/file/samples\\text file.txt.enc": {
+        "original_name": "C:/Users/priyanshu/Desktop/file/samples\\text file.txt",
+        "encrypted_date": "2025-05-20T06:40:53.030659",
+        "last_opened": "2025-05-20T06:41:29.452196",
+        "locked": true,
+        "file_type": "text"
+    }
+}
